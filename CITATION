@@ -1,5 +1,5 @@
 cff-version: 1.0.3
-message: If you use the OMEGA ArtificialImageGenerator, please cite both the software and the papers as indicated in the scope of each reference.
+message: If you use the OMEGA ArtificialTrajectory, please cite both the software and the papers as indicated in the scope of each reference.
 authors:
   - family-names: Rigano
     given-names: Alessandro
