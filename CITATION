@@ -15,12 +15,12 @@ version: v0.01.0-beta
 doi: https://doi.org/PENDING
 date-released: 2019-02-01
 repository: https://github.com/OmegaProject/TrajectoryGenerator
-description: 
+description: PENDING
 keywords:
-  - java
+  - Matlab
   - benchmarking
-  - artificial-image
-  - image-generator
+  - artificial-trajectory
+  - trajectory-generator
 license: GNU General Public License v.3
 references:
   - type: article
@@ -87,4 +87,21 @@ references:
     year: 2018
     journal: bioRxiv.org
     doi: 10.1101/379255
-    url: https://doi.org/10.1101/379255
+    url: https://doi.org/10.1101/379255   
+  - type: article
+    scope: Cite this paper every time you use the sofware
+    authors:
+      - family-names: Sbalzarini
+        given-names: Ivo F.
+        affiliation: Institute of Computational Science, ETH Zu ̈rich, 8092 Zu ̈rich, Switzerland
+        email: ivos@mpi-cbg.de
+      - family-names: Koumoutsakos
+        given-names: Petros
+        affiliation: Institute of Computational Science, ETH Zu ̈rich, 8092 Zu ̈rich, Switzerland
+        email: petros@inf.ethz.ch
+    title: "Feature point tracking and trajectory analysis for video imaging in cell biology"
+    year: 2005
+    journal: Journal of Structural Biology
+    doi: 10.1016/j.jsb.2005.06.002
+    url: http://linkinghub.elsevier.com/retrieve/pii/S1047847705001267
+
