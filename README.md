@@ -1,8 +1,8 @@
 # Trajectory Generator
 This repository contains the source code for several Matlab programs that can be used to generate artificial trajectories:
 
-1. *ArtificialTrajectories2*: this routine was developed by Sbalzarini and co-workers (Helmuth et al., 2007).
-2. *NoisyTrajectoryGeneration*: this routine was developed by the OMEGA team as described (Rigano et al., 2018a and 2018b).
+1. *ArtificialTrajectories2*: this routine was developed to produce artificial trajectories by Sbalzarini and co-workers (Helmuth et al., 2007).
+2. *NoisyTrajectoryGeneration*: this routine was developed by the OMEGA team to produce "noisy" artificial trajectories as described (Rigano et al., 2018a and 2018b).
 3. *Brownian1*: this routine was developed to produce Brownian trajectories by the OMEGA team as described (Rigano et al., 2018a and 2018b).
 4. *Brownian2*: this routine was developed to produce Brownian trajectories by the OMEGA team as described (Rigano et al., 2018a and 2018b).
 
