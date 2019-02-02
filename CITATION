@@ -15,7 +15,11 @@ version: v0.01.0-beta
 doi: https://doi.org/PENDING
 date-released: 2019-02-01
 repository: https://github.com/OmegaProject/TrajectoryGenerator
-description: PENDING
+description: This repository contains the source code for several Matlab programs that can be used to generate artificial trajectories:
+1) ArtificialTrajectories2: this routine was developed to produce artificial trajectories by Sbalzarini and co-workers (Helmuth et al., 2007).
+2) NoisyTrajectoryGeneration: this routine was developed by the OMEGA team to produce "noisy" artificial trajectories as described (Rigano et al., 2018a and 2018b).
+3) Brownian1: this routine was developed to produce Brownian trajectories by the OMEGA team as described (Rigano et al., 2018a and 2018b).
+4) Brownian2: this routine was developed to produce Brownian trajectories by the OMEGA team as described (Rigano et al., 2018a and 2018b).
 keywords:
   - Matlab
   - benchmarking
@@ -89,7 +93,7 @@ references:
     doi: 10.1101/379255
     url: https://doi.org/10.1101/379255   
   - type: article
-    scope: Cite this paper every time you use the sofware
+    scope: Cite this paper every time you use the software
     authors:
       - family-names: Sbalzarini
         given-names: Ivo F.
@@ -104,4 +108,28 @@ references:
     journal: Journal of Structural Biology
     doi: 10.1016/j.jsb.2005.06.002
     url: http://linkinghub.elsevier.com/retrieve/pii/S1047847705001267
+  - type: article
+    scope: Cite this paper every time you use the software
+    authors:
+      - family-names: Helmuth
+        given-names: J.A.
+        affiliation: Institute of Computational Science, ETH-Zurich, CH-8092 Zurich, Switzerland
+      - family-names: Burckhardt
+        given-names: C.J.
+        affiliation: Institute of Zoology, University of Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland
+      - family-names: Koumoutsakos
+        given-names: Petros
+        affiliation: Institute of Computational Science, ETH-Zurich, CH-8092 Zurich, Switzerland
+      - family-names: Gerber
+        given-names: U.F.
+        affiliation: Institute of Zoology, University of Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland
+      - family-names: Sbalzarini
+        given-names: Ivo F.
+        affiliation: Institute of Computational Science, ETH-Zurich, CH-8092 Zurich, Switzerland
+        email: ivos@mpi-cbg.de
+    title: "A novel supervised trajectory segmentation algorithm identifies distinct types of human adenovirus motion in host cells"
+    year: 2007
+    journal: Journal of Structural Biology
+    doi: 10.1016/j.jsb.2007.04.003
+    url: http://linkinghub.elsevier.com/retrieve/pii/S1047847707000822
 
