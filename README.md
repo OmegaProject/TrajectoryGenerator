@@ -1,7 +1,7 @@
 # Trajectory Generator
 This repository contains the source code for several programs that can be used to generate artificial trajectories of known mobility characteristics (i.e. observed Diffusion constant and Moment Scaling Spectrum; Ewers et al., 2005):
 
-1. *TrajectoryGenerator*: this Matlab routine was developed by Vanni Galli and Alessandro Rigano as a modification of the artificialTrajectory2 method that was initially developed to produce artificial trajectories by Sbalzarini and co-workers (Helmuth et al., 2007).
+1. *TrajectoryGenerator*: this Matlab routine was developed by Vanni Galli and Alessandro Rigano as a modification of the *artificialTrajectory2* method that was initially developed to produce artificial trajectories by Sbalzarini and co-workers (Helmuth et al., 2007).
 2. *NoisyTrajectoryGenerator*: this Matlab routine was developed by the OMEGA team to produce "noisy" artificial trajectories as described (Rigano et al., 2018a and 2018b).
 3. *BrownianTrajectoryGenerator*: this Matlab routine was developed to produce Brownian trajectories by the OMEGA team as described (Rigano et al., 2018a and 2018b).
 4. *BrownianTrajectoryGenerator_2*: this Perl script was developed to produce Brownian trajectories by the OMEGA team as described (Rigano et al., 2018a and 2018b).
