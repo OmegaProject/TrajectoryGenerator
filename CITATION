@@ -10,7 +10,7 @@ authors:
     affiliation: University of Massachusetts Medical School
     email: caterina.strambio@umassmed.edu
     orcid: https://orcid.org/0000-0002-1069-1816
-title: OMEGA ArtificialTrajectory
+title: TrajectoryGenerator
 version: v0.01.0-beta
 doi: https://doi.org/10.5281/zenodo.2555514 
 date-released: 2019-02-01
